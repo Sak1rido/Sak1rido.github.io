@@ -24,6 +24,7 @@ Advisor: Prof. Yufei Jiang
 3. Designed and implemented an experimental prototype, achieving a mean positioning error of 3.7 cm under the evaluated experimental setting.
 4. Contributed to manuscript preparation, theoretical modeling, simulation design, experimental validation, and result analysis.
 
+
 Semi-Blind Timing Synchronization for DCO-OFDM Visible-Light Communications
 
 Undergraduate Researcher, Harbin Institute of Technology, Shenzhen
@@ -34,6 +35,7 @@ Advisor: Prof. Yufei Jiang
 2. Built an end-to-end MATLAB simulation platform covering QAM modulation, Hermitian symmetry, DCO-OFDM modulation, DC biasing and clipping, LED channel modeling, AWGN, synchronization estimation, and BER evaluation.
 3. Verified through Monte Carlo simulations that the Null-Subcarrier-based method achieves synchronization-error performance comparable to training-sequence-based methods at high SNR, with BER approaching that under perfect synchronization.
 4. Deriving an analytical approximation for the timing-synchronization error probability of the null-subcarrier-based scheme.
+
 
 Location-Prior-Aided Wi-Fi Channel Charting with Coarse User Position Labels under Unknown AP Deployment
 
