@@ -9,7 +9,7 @@ redirect_from:
 
 I am an undergraduate student at School of Information Science and Technology in Harbin Institute of Technology, Shenzhen, supervised by Prof. Yufei Jiang. I major in Communication Engineering and minor in Economics.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+ My research interests are Signal processing, Wireless communications and AI for communications.
 
 A data-driven personal website
 ======
